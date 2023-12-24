@@ -1,0 +1,8 @@
+redis
+minio
+rq
+requests
+transformers
+torch
+torchvision
+torchaudio

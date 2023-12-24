@@ -1,0 +1,8 @@
+redis
+minio
+rq
+requests
+transformers
+tensorflow[and-cuda]
+tensorrt
+nvidia-pyindex
