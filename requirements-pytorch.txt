@@ -2,7 +2,11 @@ redis
 minio
 rq
 requests
-transformers
+transformers[torch]
 torch
 torchvision
 torchaudio
+datasets
+evaluate
+sacrebleu
+ipywidgets
